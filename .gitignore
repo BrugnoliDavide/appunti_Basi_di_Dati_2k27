@@ -1,0 +1,6 @@
+# Stato dell'interfaccia di Obsidian (cambia a ogni apertura)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.trash/
+.DS_Store
+desktop.ini
