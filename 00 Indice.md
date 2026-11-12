@@ -28,6 +28,7 @@ flowchart LR
 ## 4. Progettazione concettuale
 - [[Modello Entity-Relationship]] — sistema informativo, ciclo di vita, metodologia, modelli dei dati, entità, attributi, cardinalità, identificatori, associazioni (binarie, ricorsive, n-arie), entità deboli
 - [[Modello ER esteso]] — IS-A, generalizzazioni/specializzazioni, esercizio, schema aziendale, dizionario dei dati, vincoli non esprimibili
+- [[Progettazione concettuale - Metodologia e strategie]] — acquisizione e analisi dei requisiti, glossario, schemi notevoli (reificazione, part-of, instance-of, storicizzazione), strategie (top-down, bottom-up, inside-out, mista), qualità dello schema, esempio completo "Società di formazione"
 
 ## 5. Organizzazione fisica (Prof. Pellegrini)
 - [[Organizzazione fisica dei dati]] — architettura DBMS, memoria, pagine e record, heap/ordinati/hash file, modello di costo, indici, B⁺-tree
@@ -35,6 +36,9 @@ flowchart LR
 
 ## 6. Progetto
 - [[Esercitazione finale - Report di progetto (esempio voli)]] — esempio completo di report: analisi dei requisiti, E-R, progettazione logica (volumi, operazioni, costi), progettazione fisica (tabelle, indici, trigger, stored procedure)
+
+## 7. Progettazione logica
+- [[Progettazione logica - Ristrutturazione dello schema E-R]] — carico applicativo, tavola dei volumi e degli accessi, analisi delle ridondanze, eliminazione delle generalizzazioni (tre possibilità), partizionamento/accorpamento di entità e relationship, identificatori primari
 
 ---
 

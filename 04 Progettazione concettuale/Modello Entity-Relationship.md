@@ -7,7 +7,7 @@ fonte: lect5BDmetodmodER2627.pdf (Prof. V. de Nitto Personè)
 
 > [!info] Fonte
 > Slides *"Progettazione di basi di dati: metodologie e modelli per il progetto"* — Prof. Vittoria de Nitto Personè (a.a. 2026/27).
-> Continua in: [[Modello ER esteso]]. Collegamenti: [[Modello relazionale]] · [[00 Indice|Indice]]
+> Continua in: [[Modello ER esteso]] · [[Progettazione concettuale - Metodologia e strategie]]. Collegamenti: [[Modello relazionale]] · [[00 Indice|Indice]]
 
 > [!tip] Notazione dei diagrammi in questa nota
 > Nei diagrammi Mermaid: **rettangolo** = entità, **rombo** = associazione (relationship), **cerchio** = attributo; `●` = attributo identificatore, `○` = attributo semplice. Le cardinalità sono scritte sulle linee.

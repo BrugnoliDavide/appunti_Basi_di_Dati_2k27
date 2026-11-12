@@ -7,7 +7,7 @@ fonte: lect6BDEntRelEsteso_2627.pdf (Prof. V. de Nitto Personè)
 
 > [!info] Fonte
 > Slides *"Progettazione di basi di dati: metodologie e modelli per il progetto — modello E-R esteso"* — Prof. Vittoria de Nitto Personè (a.a. 2026/27).
-> Prerequisito: [[Modello Entity-Relationship]]. Collegamenti: [[00 Indice|Indice]]
+> Prerequisito: [[Modello Entity-Relationship]]. Continua in: [[Progettazione concettuale - Metodologia e strategie]] · [[Progettazione logica - Ristrutturazione dello schema E-R]]. Collegamenti: [[00 Indice|Indice]]
 
 ---
 
