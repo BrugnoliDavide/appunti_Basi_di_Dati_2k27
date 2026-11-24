@@ -11,6 +11,7 @@ flowchart LR
   R[Requisiti] --> C["Progettazione concettuale<br/>(modello E-R)"]
   C --> L["Progettazione logica<br/>(modello relazionale)"]
   L --> F["Progettazione fisica<br/>(file, indici, buffer)"]
+  L -.->|verifica| N["Normalizzazione<br/>(forme normali)"]
   L --> Q["Linguaggi<br/>(algebra relazionale, SQL)"]
 ```
 
@@ -39,6 +40,10 @@ flowchart LR
 
 ## 7. Progettazione logica
 - [[Progettazione logica - Ristrutturazione dello schema E-R]] — carico applicativo, tavola dei volumi e degli accessi, analisi delle ridondanze, eliminazione delle generalizzazioni (tre possibilità), partizionamento/accorpamento di entità e relationship, identificatori primari
+- [[Progettazione logica - Traduzione nel modello relazionale]] — traduzione di entità forti, attributi multivalore, associazioni molti a molti, con card max 1 (obbligatorie e opzionali), uno a uno, ricorsive, ternarie, entità deboli (anche in cascata), ordine di traduzione di uno schema E-R
+
+## 8. Normalizzazione
+- [[Normalizzazione]] — forme normali, anomalie (inserimento, cancellazione, aggiornamento), dipendenze funzionali (banali e non), forma normale di Boyce e Codd, decomposizione senza perdita, conservazione delle dipendenze, normalizzazione e progettazione E-R
 
 ---
 

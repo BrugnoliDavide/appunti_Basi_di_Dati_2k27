@@ -7,7 +7,7 @@ fonte: lect8aBDprogLog2627.pdf (Prof. V. de Nitto Personè)
 
 > [!info] Fonte
 > Slides *"Progettazione logica — ristrutturazione dello schema E-R"* — Prof. Vittoria de Nitto Personè (a.a. 2026/27).
-> Prerequisiti: [[Modello Entity-Relationship]] · [[Modello ER esteso]] · [[Progettazione concettuale - Metodologia e strategie]]. Collegamenti: [[Modello relazionale]] · [[00 Indice|Indice]]
+> Prerequisiti: [[Modello Entity-Relationship]] · [[Modello ER esteso]] · [[Progettazione concettuale - Metodologia e strategie]]. Continua in: [[Progettazione logica - Traduzione nel modello relazionale]] · [[Normalizzazione]]. Collegamenti: [[Modello relazionale]] · [[00 Indice|Indice]]
 
 > [!tip] Notazione dei diagrammi in questa nota
 > Nei diagrammi Mermaid: **rettangolo** = entità, **rombo** = associazione (relationship), **cerchio** = attributo. Le cardinalità sono etichette sulle linee.
@@ -295,4 +295,4 @@ flowchart LR
 
 ## 7. Scelta degli identificatori primari
 
-Ultima attività della ristrutturazione: per ogni entità si sceglie, tra gli identificatori, quello **primario** (su cui si baserà la traduzione nel modello relazionale). *(integrazione: i criteri di scelta e la traduzione verso il modello logico sono trattati nelle slides successive del corso.)*
+Ultima attività della ristrutturazione: per ogni entità si sceglie, tra gli identificatori, quello **primario** (su cui si baserà la traduzione nel modello relazionale). *(integrazione: i criteri di scelta e la traduzione verso il modello logico sono trattati nelle slides successive del corso.)* La traduzione è descritta in [[Progettazione logica - Traduzione nel modello relazionale]]; la verifica di qualità dello schema (anche durante la ristrutturazione) in [[Normalizzazione]].
